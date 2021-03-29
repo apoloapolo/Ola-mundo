@@ -4,4 +4,4 @@
 
 ### **Repositório criado para apredizado em *Git* e *GitHub*.**
 
- Essa linha adicionei diretamente do site do GitHub.
+ Essa __*linha*__ adicionei diretamente do site do GitHub.
