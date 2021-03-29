@@ -9,3 +9,8 @@ Essa __*linha*__ adicionei diretamente do site do GitHub.
 Lista numerada: 
 1. Teste
    1. Testinho
+
+Lista demarcada:
+* Teste
+* Teste
+   * Teste
