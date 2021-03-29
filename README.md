@@ -16,4 +16,4 @@ Lista demarcada:
    * Teste
 
 Lista de tarefas:
-- []Terminar de ver as aulas
+- [ ] Terminar de ver as aulas
