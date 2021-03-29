@@ -8,4 +8,4 @@ Essa __*linha*__ adicionei diretamente do site do GitHub.
 
 Lista numerada: 
 1. Teste
-   1.Testinho
+   1. Testinho
