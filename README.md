@@ -5,3 +5,6 @@
 ### **Repositório criado para apredizado em *Git* e *GitHub*.**
 
  Essa __*linha*__ adicionei diretamente do site do GitHub.
+
+ Lista numerada: 
+ 1. Teste
