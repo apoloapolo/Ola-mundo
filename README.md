@@ -17,3 +17,5 @@ Lista demarcada:
 
 Lista de tarefas:
 - [x] Terminar de ver as aulas
+***
+![Octocat Apolo](https://user-images.githubusercontent.com/62688708/112913866-0a483100-90d1-11eb-84a4-185da73203cc.png)
