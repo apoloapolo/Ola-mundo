@@ -28,3 +28,10 @@ N°|Nome|Nota
 2|Pabllo|10
 
 Comando do Python: `nome.upper()`
+
+Programa para deixar as letras maiúsculas em Python:
+```
+while True:
+    nome=input()
+    print(nome.upper())
+```
