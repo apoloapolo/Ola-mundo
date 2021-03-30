@@ -1,8 +1,8 @@
-# Olá, Mundo!
+# **Repositório criado para apredizado em *Git* e *GitHub*.**
 ---
 ## Primeiro repositório do curso de Git.
 
-### **Repositório criado para apredizado em *Git* e *GitHub*.**
+### Olá, Mundo!
 
 Essa __*linha*__ adicionei diretamente do site do GitHub.
 
