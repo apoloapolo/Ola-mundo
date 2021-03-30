@@ -20,4 +20,4 @@ Lista de tarefas:
 ***
 ![Octocat Apolo](https://user-images.githubusercontent.com/62688708/112913866-0a483100-90d1-11eb-84a4-185da73203cc.png)
 
-[Acesse meu Linkedin aqui](https://www.linkedin.com/in/vin%C3%ADcius-albuquerque-994813159/){:target="_blank"}
+[Acesse meu Linkedin aqui](https://www.linkedin.com/in/vin%C3%ADcius-albuquerque-994813159/)
