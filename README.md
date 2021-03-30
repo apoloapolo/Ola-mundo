@@ -35,4 +35,4 @@ while True:
     nome=input()
     print(nome.upper())
 ```
-:vulcan_salute
+:vulcan_salute:
