@@ -26,3 +26,5 @@ N°|Nome|Nota
 ---|---|---
 1|Apolo|8,9
 2|Pabllo|10
+
+Comando do Python: `nome.upper()`
